@@ -1,0 +1,12 @@
+{
+  "name": "learn-promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "promises-aplus-tests promise.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
